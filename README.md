@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# message-app-frontend
+this is chat app build with react.js
+<<<<<<< HEAD
+(nội dung của nhánh hiện tại, ví dụ `main`)
+=======
+(nội dung của nhánh cần hợp nhất, ví dụ `master`)
+>>>>>>> master
+>>>>>>> 07c6cdd30a11cdc2234c7ceb45e6b730f68fd1a7
